@@ -3,7 +3,6 @@ import NotFoundPage from "../pages/NotFound/NotFoundPage";
 import ProfilePage from "../pages/ProfilePage/ProfilePage";
 import ProgressPage from "../pages/ProgressPage/ProgressPage";
 
-
 const routes = [
   {
     path: "/",
