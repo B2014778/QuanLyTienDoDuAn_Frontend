@@ -13,8 +13,8 @@ const items = [
   {
     key: "2",
     label: (
-      <a href="/nav2" style={{ color: "inherit", textDecoration: "none" }}>
-        Nav 2
+      <a href="/profile" style={{ color: "inherit", textDecoration: "none" }}>
+        Hồ sơ dự án
       </a>
     ),
     children: [
