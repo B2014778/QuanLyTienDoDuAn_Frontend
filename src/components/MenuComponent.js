@@ -51,8 +51,8 @@ const items = [
   {
     key: "3",
     label: (
-      <a href="/nav3" style={{ color: "inherit", textDecoration: "none" }}>
-        Nav 3
+      <a href="/progress" style={{ color: "inherit", textDecoration: "none" }}>
+        Tiến độ dự án
       </a>
     ),
   },
