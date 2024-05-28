@@ -6,6 +6,7 @@ import FooterComponent from '../../components/FooterComponent'
 const ProfilePage = () => {
   return (
     <Layout>
+        
       <HeaderComponent />
       <FooterComponent />
     </Layout>
